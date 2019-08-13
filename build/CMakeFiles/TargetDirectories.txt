@@ -1,0 +1,3 @@
+/home/vdorbala/Desktop/2D-Game/build/CMakeFiles/edit_cache.dir
+/home/vdorbala/Desktop/2D-Game/build/CMakeFiles/rebuild_cache.dir
+/home/vdorbala/Desktop/2D-Game/build/CMakeFiles/game.dir
